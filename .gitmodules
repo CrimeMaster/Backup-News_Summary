@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/CrimeMaster/Intel-Final-Project-New-Summary.git
